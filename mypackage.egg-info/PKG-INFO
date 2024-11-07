@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.1
+Summary: EDSA Example python package
+Home-page: https://github.com/chrimu25/py_package
+Author: MUGABO MUTSINZI
+Author-email: chrimu25@gmail.com
+License: MIT
+Requires-Dist: numpy
+
+# mypackages
+
+This library was created as an example of how to publish your own Python package
+
+# How to Install
+.....
